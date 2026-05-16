@@ -11,4 +11,8 @@ Simple local RAG application for uploading PDF files and asking questions about 
 
 ## Demo
 
-![RAG Demo]
+## Demo
+
+![RAG Demo](RAG.jpg)
+
+![RAG Demo](RAG%20(2).jpg)
