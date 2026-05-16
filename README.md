@@ -1,17 +1,14 @@
 # Local RAG App
 
-This project is a simple local RAG system.
+Simple local RAG application for uploading PDF files and asking questions about their content.
 
-Features:
-- Load PDF files
-- Chunk text
+## Features
+- Upload PDF files
 - Create embeddings
-- Store vectors using FAISS
-- Retrieve relevant chunks
+- Store vectors with FAISS
+- Retrieve relevant information
 - Generate answers with sources
 
-Tools:
-- Python
-- FAISS
-- Sentence Transformers
-- Transformers
+## Demo
+
+![RAG Demo](photo_2026-05-07_22-25-27.jpg)
