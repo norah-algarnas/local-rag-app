@@ -9,7 +9,7 @@ Simple local RAG application for uploading PDF files and asking questions about 
 - Retrieve relevant information
 - Generate answers with sources
 
-## Demo
+
 
 ## Demo
 
