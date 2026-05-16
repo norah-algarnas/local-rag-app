@@ -20,8 +20,12 @@ Simple local RAG application for uploading PDF files and asking questions about 
 
 1. Install requirements
 
+```bash
 pip install -r requirements.txt
+```
 
 2. Run the app
 
+```bash
 streamlit run app.py
+```
